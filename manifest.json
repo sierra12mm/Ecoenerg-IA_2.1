@@ -1,0 +1,15 @@
+{
+  "name": "ECOENERG-IA",
+  "short_name": "ECOENERG-IA",
+  "description": "Monitoreo energético inteligente - Colegio Villas de San Ignacio",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030b14",
+  "theme_color": "#030b14",
+  "lang": "es",
+  "icons": [
+    { "src": "logo.png", "sizes": "249x256", "type": "image/png", "purpose": "any" }
+  ]
+}
